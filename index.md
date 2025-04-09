@@ -19,7 +19,7 @@ Welcome to my GitHub Page.
 - Vietnamese
 - Spanish (Very Basic Level)
 
-### Top 3 Priorities This Quarter:
+### Top 2 Priorities This Quarter:
 1. Build a cool website project
 2. Learn Git fluently
 
