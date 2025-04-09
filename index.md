@@ -4,7 +4,7 @@ Welcome to my GitHub Page.
 ---
 [Visit my GitHub Profile](https://github.com/huynhhenry)
 [Favorite Algorithm](#about-me-as-a-programmer)
-[My VS Code screenshot](/screeenshots/VSCode_UI.png)
+[My VS Code screenshot](/screenshots/VSCode_UI.png)
 
 ## About Me as a Programmer
 
